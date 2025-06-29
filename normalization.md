@@ -10,13 +10,13 @@ To apply normalization principles to ensure the database is in the **third norma
 
 ### Before Normalisation
 
-![ER Diagram](requirements.png)
+![ER Diagram](ERD/requirements.png)
 
 ---
 
 ### ✅ Normalised Schema (3NF)
 
-![Normalised ERD](normalised_erd.png)
+![Normalised ERD](ERD/normalised_erd.png)
 
 ---
 
