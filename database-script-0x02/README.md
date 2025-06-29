@@ -17,7 +17,7 @@ This project is part of the comprehensive **ALX Airbnb Database Module**. It foc
   + <u>[schema.sql](https://github.com/Heshbon/alx-airbnb-database/blob/main/database-script-0x01/schema.sql)</u>: Create `schema.sql` using SQL DDL with constraints and indexes.
 
 ### 3. Seed the Database with Sample Data
-  + <u>[seed.sql](https://github.com/Heshbon/alx-airbnb-database/blob/main/seed.sql)</u>: Seed the database with realistic sample data.
+  + <u>[seed.sql](https://github.com/Heshbon/alx-airbnb-database/blob/main/database-script-0x02/seed.sql)</u>: Seed the database with realistic sample data.
 
 
 ## ✍️ Author
