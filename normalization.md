@@ -5,15 +5,16 @@
 To apply normalization principles to ensure the database is in the **third normal form (3NF)**.
 
 ---
-## 📊 ER diagrams overviews
 
-### Before initialisation
+## 📊 ER Diagrams Overview
 
-![ER Diagram](requirements.png)git
+### Before Normalisation
+
+![ER Diagram](requirements.png)
 
 ---
 
-### Normalised Schema (3NF)
+### ✅ Normalised Schema (3NF)
 
 ![Normalised ERD](normalised_erd.png)
 
