@@ -8,6 +8,10 @@ This script (`joins_queries.sql`) includes SQL queries that demonstrate usage of
 - `LEFT JOIN` to list all properties including those without reviews.
 - `FULL OUTER JOIN` to combine users and bookings even when unmatched.
 
+## Subqueries Practice
+
+This directory contains SQL queries demonstrating both correlated and non-correlated subqueries for the ALX Airbnb Database Module.
+
 ## Usage
 
 Execute the queries in your PostgreSQL or MySQL database shell after loading the Airbnb schema.
