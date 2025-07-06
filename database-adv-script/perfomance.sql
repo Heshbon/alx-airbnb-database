@@ -20,6 +20,7 @@ FROM
     LEFT JOIN payments pm ON b.booking_id = pm.booking_id
 WHERE 
     b.checkout_date > '2025-07-05'
+    AND p.price > 0
 ORDER BY 
     b.checkin_date DESC;
 
@@ -38,7 +39,7 @@ WITH ranked_bookings AS (
             ORDER BY b.checkin_date DESC
         ) as booking_rank
     FROM bookings b
-    WHERE b.checkout_date > '2023-01-01'
+    WHERE b.checkout_date > '2025-07-06'
 )
 SELECT 
     u.user_id,
